@@ -2,7 +2,7 @@
 
 Commonly used javascript graphics libraries compilation.
 
-- [C3.js](https://github.com/masayuki0812/c3)- A D3-based reusable chart library
+- [C3.js](https://github.com/masayuki0812/c3) - A D3-based reusable chart library
 - [Chart.js](https://github.com/nnnick/Chart.js) - Simple HTML5 Charts using the canvas tag
 - [Charted](https://github.com/mikesall/charted) - A charting tool that produces automatic, shareable charts from any data file
 - [Chartist-js](https://github.com/gionkunz/chartist-js) - Simple responsive charts
