@@ -1,6 +1,6 @@
 # Awesome Javascript Charts
 
-Commonly used javascript charts libraries compilation.
+A curated list of awesome chart libraries
 
 - [C3.js](https://github.com/masayuki0812/c3) - A D3-based reusable chart library
 - [CanvasJS](http://canvasjs.com/) - Simple & intuitive Charting API in JavaScript
