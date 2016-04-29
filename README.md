@@ -22,6 +22,7 @@ A curated list of awesome chart libraries
 - [N3-charts](https://github.com/n3-charts) - Making AngularJS charts as easy as pie
 - [Nvd3](https://github.com/novus/nvd3) - A reusable charting library written in d3.js
 - [Paths.js](https://github.com/andreaferretti/paths-js) - Generate SVG paths for geometric shapes
+- [React-d3](https://github.com/esbullington/react-d3) - Modular React charts made with d3.js
 - [Rickshaw](https://github.com/shutterstock/rickshaw) - JavaScript toolkit for creating interactive real-time graphs
 - [Plottable.js](https://github.com/palantir/plottable) - A library of modular chart components, built on D3
 - [Sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library dedicated to graph drawing
