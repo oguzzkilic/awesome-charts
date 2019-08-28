@@ -2,6 +2,7 @@
 
 A curated list of awesome chart libraries
 
+- [AnyChart](https://www.anychart.com) - A flexible, cross-browser JS library for charts and dashboards, built on top of open-source GraphicsJS, with 70+ chart types.
 - [C3.js](https://github.com/masayuki0812/c3) - A D3-based reusable chart library
 - [CanvasJS](http://canvasjs.com/) - Simple & intuitive Charting API in JavaScript
 - [Chart.js](https://github.com/nnnick/Chart.js) - Simple HTML5 Charts using the canvas tag
@@ -22,6 +23,7 @@ A curated list of awesome chart libraries
 - [N3-charts](https://github.com/n3-charts) - Making AngularJS charts as easy as pie
 - [Nvd3](https://github.com/novus/nvd3) - A reusable charting library written in d3.js
 - [Paths.js](https://github.com/andreaferretti/paths-js) - Generate SVG paths for geometric shapes
+- [Plotly.js](https://plot.ly/javascript/) - A high-level, declarative JS charting library, built on top of open-source D3.js and Stack.gl, with 20+ chart types.
 - [React-d3](https://github.com/esbullington/react-d3) - Modular React charts made with d3.js
 - [Rickshaw](https://github.com/shutterstock/rickshaw) - JavaScript toolkit for creating interactive real-time graphs
 - [Plottable.js](https://github.com/palantir/plottable) - A library of modular chart components, built on D3
