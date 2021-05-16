@@ -1,4 +1,4 @@
-# Awesome Javascript Charts
+# Awesome JavaScript Charts
 
 A curated list of awesome chart libraries
 
