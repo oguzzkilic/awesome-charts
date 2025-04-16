@@ -29,6 +29,8 @@ A curated list of awesome chart libraries
 - [Plottable.js](https://github.com/palantir/plottable) - A library of modular chart components, built on D3
 - [Sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library dedicated to graph drawing
 - [Smoothie](https://github.com/joewalnes/smoothie) - smooth JavaScript charts for realtime streaming data
+- [webgl-chart](https://github.com/tomsoftware/webgl-chart) - High performance web Chart Library to plot line-charts, areas and annotations using WebGL.
+- [webgl-plot](https://github.com/danchitnis/webgl-plot) - Multi-line high-performance 2D plotting library using native WebGL.
 - [ZingChart](https://www.zingchart.com) - A powerful Javascript library with 35+ chart types.
 
 # Contributing
