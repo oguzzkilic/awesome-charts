@@ -22,6 +22,7 @@ A curated list of awesome chart libraries
 - [Morris.js](https://github.com/morrisjs/morris.js) - Pretty time-series line graphs
 - [N3-charts](https://github.com/n3-charts) - Making AngularJS charts as easy as pie
 - [Nvd3](https://github.com/novus/nvd3) - A reusable charting library written in d3.js
+- [OpenKline](https://github.com/rekurt/openkline) - Framework-agnostic TypeScript library for canvas candlestick charts with technical indicators and drawing tools.
 - [Paths.js](https://github.com/andreaferretti/paths-js) - Generate SVG paths for geometric shapes
 - [Plotly.js](https://plot.ly/javascript/) - A high-level, declarative JS charting library, built on top of open-source D3.js and Stack.gl, with 20+ chart types.
 - [React-d3](https://github.com/esbullington/react-d3) - Modular React charts made with d3.js
