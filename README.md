@@ -12,6 +12,7 @@ A curated list of awesome chart libraries
 - [Cubism.js](https://github.com/square/cubism) - A JavaScript library for time series visualization
 - [Cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory library for analysis and visualisation
 - [D3.js](https://github.com/mbostock/d3) - A JavaScript visualization library for HTML and SVG
+- [Depth](https://github.com/rekurt/depth) - Framework-agnostic TypeScript library for canvas order-book depth charts with cumulative bid/ask curves and incremental updates.
 - [Easy-pie-chart](https://github.com/rendro/easy-pie-chart) - Lightweight plugin to render simple, animated and retina optimized pie charts
 - [Echarts](https://github.com/ecomfe/echarts) - A powerful charting and visualization library for browser
 - [Flotr2](https://github.com/HumbleSoftware/Flotr2) - Graphs and Charts for Canvas in JavaScript
